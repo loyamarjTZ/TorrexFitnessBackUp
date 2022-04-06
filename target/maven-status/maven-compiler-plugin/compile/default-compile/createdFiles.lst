@@ -1,0 +1,8 @@
+com\joseloya\torrexfitness\model\Product.class
+com\joseloya\torrexfitness\controller\TorrexFitnessController.class
+com\joseloya\torrexfitness\controller\ProductController.class
+com\joseloya\torrexfitness\model\Customer.class
+com\joseloya\torrexfitness\service\ProductServiceImpl.class
+com\joseloya\torrexfitness\repository\ProductRepository.class
+com\joseloya\torrexfitness\TorrexFitnessApplication.class
+com\joseloya\torrexfitness\service\ProductService.class
